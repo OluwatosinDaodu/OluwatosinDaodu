@@ -1,9 +1,7 @@
-# Hello 👋, I'm Oluwayetty
+# Hello 👋, I'm Oluwatosin
 
-[![Linkedin Badge](https://img.shields.io/badge/-sayetunde-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayetunde/)](https://www.linkedin.com/in/sayetunde/)
-[![Instagram Badge](https://img.shields.io/badge/-for.data.geeks-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/for.data.geeks/)](https://instagram.com/for.data.geeks)
-[![Youtube Badge](https://img.shields.io/badge/-Oluwayetty-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/Oluwayetty)](https://www.youtube.com/c/Oluwayetty)
-[![Gmail Badge](https://img.shields.io/badge/oluwayettyservices@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oluwayettyservices@gmail.com)](mailto:oluwayettyservices@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-OluwatosinDaodu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sayetunde/)](https://www.linkedin.com/in/oluwatosin-daodu/)
+[![Gmail Badge](https://img.shields.io/badge/oluwatosin.ademolu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oluwatosin.ademolu@gmail.com)](mailto:oluwatosin.ademolu@gmail.com)
 
 I got bored of Software Engineering after spending 4 years in my role as an SE and transitioned to Data Science, I am currently a Senior Data Scientist where I lead various R&D projects ranging from NLP to Computer Vision.
 In my spare time, I love to teach others. I believe that anyone can learn anything if they put their heart to it. Join the thriving [Online Community](https://www.youtube.com/c/Oluwayetty)
