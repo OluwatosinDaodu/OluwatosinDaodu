@@ -28,19 +28,11 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 <br />
 
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-face&logo=macOS)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-%092E20?style=flat-square&logo=Django)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
 
 <br />
 
-![Ruby]( https://img.shields.io/badge/RubyOnRails-D30001?style=flat-square&logo=Ruby)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%44A833.svg?style=flat-square&logo=anaconda&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) 
@@ -51,17 +43,7 @@ In my spare time, I love to teach others. I believe that anyone can learn anythi
 ![PyTorch](https://img.shields.io/badge/-pytorch-00599C?style=flat-square&logo=pytorch)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%F37626?style=flat-square&logo=Jupyter)
 ![OpenCV](https://img.shields.io/badge/-opencv-00599C?style=flat-square&logo=opencv&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
-
-### 📖 Been a while but do check out some of my amazing articles. I promise they won't bore you.
- 
-* [Own Your Own Learning](https://medium.com/towards-data-science/own-your-own-learning-aa86bd9a397f?source=user_profile) 
-* [My first contribution to an open source project](https://code.likeagirl.io/my-first-contribution-to-an-open-source-project-bd60f33b519b) 
-* [Being a female Developer](https://medium.com/@Yettie/on-taking-chances-99851da14ddf) 
-* [On taking chances!](https://medium.com/@Yettie/on-taking-chances-99851da14ddf) 
-* [Oh! Failure…How Inspiring can it be?](https://medium.com/@Yettie/oh-failure-how-inspiring-can-it-be-be9cc0c72cc0)
 
 
 ### 🧡 &nbsp;&nbsp;My passions
